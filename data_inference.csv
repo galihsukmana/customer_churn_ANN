@@ -1,0 +1,101 @@
+,region_category,membership_category,joined_through_referral,medium_of_operation,avg_time_spent,avg_transaction_value,avg_frequency_login_days,points_in_wallet,feedback,churn_risk_score
+11800,Town,No Membership,No,Smartphone,305.27,32936.43,23.0,663.0,Poor Product Quality,1
+5704,Town,Premium Membership,Yes,Smartphone,73.61,36657.94,18.0,756.7,Poor Product Quality,0
+21861,City,Silver Membership,No,Desktop,33.53,46732.85,8.0,348.4761165124187,Poor Product Quality,0
+2737,City,Basic Membership,No,Smartphone,158.92,37395.87,24.0,675.36,Poor Website,1
+15119,City,Gold Membership,Yes,Smartphone,37.63,37115.3,24.0,721.89,Poor Product Quality,0
+3483,Town,Gold Membership,No,Smartphone,0.0,5267.81,9.0,0.0,No reason specified,0
+7670,City,Premium Membership,Yes,Desktop,1523.5710955158083,25686.96,15.0,767.54,Too many ads,0
+7923,Town,Basic Membership,Yes,Smartphone,219.73,4702.51,23.0,1020.6432711438612,Poor Product Quality,1
+18264,Town,Gold Membership,Yes,Smartphone,273.47,45734.52,25.0,969.0182483917037,Poor Product Quality,1
+1948,City,Basic Membership,No,Desktop,34.62,29965.65,27.0,622.94,No reason specified,0
+9146,Town,No Membership,No,Both,0.0,40462.18,27.0,682.79,No reason specified,1
+13333,City,Gold Membership,No,Smartphone,30.67,44025.44,10.0,723.63,Poor Customer Service,0
+17424,Town,Platinum Membership,No,Desktop,492.76,14008.43,0.0,756.01,Poor Customer Service,0
+11443,Town,Silver Membership,Yes,Desktop,34.69,13603.58,43.45032794941644,702.14,Poor Customer Service,0
+21990,City,Basic Membership,Yes,Smartphone,98.68,10171.43,14.0,974.1361037898,No reason specified,1
+21223,Town,No Membership,Yes,Both,645.04,27959.7,25.0,597.0805570224649,Too many ads,1
+2188,Town,Premium Membership,No,Smartphone,1457.3475160978946,42867.76,0.0,743.63,Poor Customer Service,0
+21307,City,Gold Membership,Yes,Smartphone,34.72,18497.03,25.0,747.47,Poor Product Quality,0
+5526,Town,Silver Membership,Yes,Smartphone,31.42,24446.05,8.0,0.0,No reason specified,1
+6065,Town,Premium Membership,Yes,Desktop,263.05,43416.89,8.0,0.0,Poor Website,0
+7084,City,Gold Membership,No,Desktop,31.12,8462.74,21.0,665.31,Too many ads,1
+680,Town,Platinum Membership,Yes,Smartphone,32.16,39998.34,26.0,706.58,Poor Website,0
+13993,City,Basic Membership,No,Smartphone,1131.3746501292087,46900.21,28.0,652.91,Poor Website,1
+1620,Town,Premium Membership,Yes,Both,372.74,1294.64,19.0,790.18,No reason specified,0
+13250,City,Basic Membership,Yes,Smartphone,47.39,11102.21,13.0,675.61,Too many ads,1
+18755,Town,Silver Membership,Yes,Desktop,33.28,26127.93,25.0,0.0,Poor Website,1
+6858,City,Silver Membership,Yes,Desktop,84.24,58342.16,18.0,731.16,User Friendly Website,0
+14041,Town,Gold Membership,No,Desktop,117.21,18250.66,7.0,720.45,Poor Product Quality,0
+16793,City,Basic Membership,Yes,Smartphone,156.12,39719.11,22.0,562.24,Too many ads,1
+2400,City,Silver Membership,No,Smartphone,212.5,20422.57,0.0,783.36,Quality Customer Care,0
+19570,City,Platinum Membership,Yes,Desktop,34.79,6964.48,16.0,719.74,Poor Product Quality,0
+16243,Town,Silver Membership,No,Smartphone,303.3,77166.42,1.0,740.36,User Friendly Website,0
+15323,City,Gold Membership,No,Desktop,32.6,34419.15,19.0,764.63,No reason specified,0
+22219,City,Platinum Membership,Yes,Smartphone,350.38,37783.18,0.0,513.9099335146226,No reason specified,0
+358,Town,Premium Membership,No,Desktop,351.73,48161.36,17.0,784.55,User Friendly Website,0
+19412,Town,Basic Membership,No,Both,1371.1085228485822,28099.23,0.0,112.66626285638132,No reason specified,1
+12681,Town,No Membership,Yes,Smartphone,1002.47612137562,33579.12,15.0,579.11,No reason specified,1
+222,City,No Membership,No,Desktop,30.48,21217.73,21.0,640.67,Poor Product Quality,1
+12934,Village,Silver Membership,Yes,Both,816.95,38674.79,22.0,762.15,Poor Product Quality,0
+14221,City,Platinum Membership,Yes,Desktop,148.87,31341.5,10.0,0.0,Poor Customer Service,0
+5066,City,Platinum Membership,No,Desktop,50.35,31424.19,0.0,1032.9843634324277,Poor Product Quality,0
+19150,Town,Gold Membership,Yes,Desktop,33.5,17300.12,28.0,649.26,Too many ads,1
+16089,Village,No Membership,Yes,Both,345.21,10536.26,8.0,0.0,Poor Product Quality,1
+20789,Village,Platinum Membership,No,Smartphone,46.91,21315.58,8.0,762.53,Poor Website,0
+11865,Town,No Membership,Yes,Smartphone,144.51,7865.71,9.0,0.0,Poor Website,1
+12307,Town,No Membership,Yes,Desktop,262.03,1484.56,26.0,618.53,Too many ads,1
+11739,Town,Gold Membership,No,Both,431.18,12274.4,7.0,745.1,Poor Customer Service,0
+7058,Town,Gold Membership,Yes,Desktop,0.0,17420.75,45.67270986369244,624.22,Poor Product Quality,1
+16100,City,Silver Membership,Yes,Desktop,334.98,51577.6,7.0,720.08,Reasonable Price,0
+13004,Town,Silver Membership,No,Desktop,33.05,35055.84,25.0,344.0097814760257,Poor Customer Service,1
+2263,Town,Basic Membership,No,Desktop,191.64,43645.31,18.0,551.26,Poor Customer Service,1
+12010,Town,Gold Membership,No,Desktop,30.83,36343.26,0.0,631.58,No reason specified,1
+1737,City,Basic Membership,Yes,Smartphone,52.99,3300.22,6.0,620.57,Poor Customer Service,1
+6407,Village,No Membership,No,Desktop,238.57,49144.63,0.0,0.0,Poor Website,1
+224,City,Premium Membership,Yes,Smartphone,123.5,22955.39,21.0,786.28,No reason specified,0
+19044,Town,No Membership,No,Desktop,68.99,22386.04,26.0,598.59,Poor Customer Service,1
+19107,City,Basic Membership,No,Desktop,239.5,18527.59,10.0,506.81,Poor Website,1
+5101,Town,Silver Membership,No,Desktop,332.86,1420.12,11.0,1164.1781834298797,Too many ads,1
+16358,Village,No Membership,No,Smartphone,31.57,29919.64,22.0,514.49,Poor Website,1
+21098,Town,Gold Membership,Yes,Both,616.86,19080.89,11.0,723.44,Poor Customer Service,0
+17880,Town,Basic Membership,No,Desktop,47.05,40558.94,17.0,561.35,Poor Customer Service,1
+20454,Town,Silver Membership,No,Desktop,936.125161328928,39972.67,21.0,766.01,Poor Website,0
+7865,Town,Silver Membership,Yes,Desktop,113.01,41628.93,29.0,149.8770890202013,Poor Website,1
+22069,City,Gold Membership,Yes,Both,263.58,34046.4,9.0,649.88,Poor Customer Service,1
+12297,Town,Platinum Membership,Yes,Desktop,283.15,99394.59,1.0,786.75,Reasonable Price,0
+6001,City,No Membership,No,Desktop,54.15,25535.24,20.0,0.0,Poor Product Quality,1
+2367,Town,Silver Membership,No,Smartphone,1202.5569676252787,23656.03,27.0,696.22,Too many ads,1
+15415,Town,Gold Membership,No,Both,207.78,70825.0,19.0,782.77,Quality Customer Care,0
+2148,City,Platinum Membership,No,Smartphone,224.24,49270.57,1.0,760.54,Quality Customer Care,0
+15707,Town,No Membership,Yes,Both,480.32,24644.65,21.0,518.56,Poor Customer Service,1
+5991,Village,Premium Membership,Yes,Desktop,32.96,55181.1,2.0,831.29,Products always in Stock,0
+6589,Town,Premium Membership,No,Smartphone,397.22,23474.9,15.0,765.85,Poor Website,0
+10904,Village,No Membership,Yes,Desktop,30.53,30740.2,11.0,636.88,Poor Product Quality,1
+838,Town,Silver Membership,Yes,Smartphone,32.91,88310.17,13.0,767.54,User Friendly Website,0
+17872,Village,No Membership,No,Smartphone,108.28,46048.58,16.0,629.21,Too many ads,1
+10256,City,Basic Membership,Yes,Desktop,181.12,11081.13,22.0,64.26452939546073,Too many ads,1
+18933,City,Silver Membership,No,Smartphone,109.08,75447.17,9.0,738.62,Reasonable Price,0
+878,City,No Membership,Yes,Desktop,294.5,16426.32,17.0,660.04,No reason specified,1
+11539,City,Basic Membership,No,Desktop,59.92,10082.84,28.0,629.64,Poor Customer Service,1
+15108,Village,Gold Membership,No,Desktop,400.66,51126.64,10.0,702.58,Quality Customer Care,0
+15220,Town,Basic Membership,No,Desktop,46.9,47157.19,0.0,679.12,Too many ads,1
+20245,Town,Silver Membership,Yes,Desktop,157.2,6350.28,26.0,748.66,Poor Customer Service,0
+611,Town,No Membership,No,Desktop,138.84,45638.23,25.0,544.76,No reason specified,1
+10734,Town,Silver Membership,No,Desktop,132.49,34496.84,18.0,784.98,Poor Website,0
+5967,Village,Silver Membership,No,Desktop,135.42,1202.55,27.0,653.97,Too many ads,1
+10236,Town,Basic Membership,No,Smartphone,61.67,19911.79,18.0,618.67,Poor Customer Service,1
+21789,Town,Platinum Membership,Yes,Smartphone,983.0945557502096,49052.31,20.0,0.0,Poor Product Quality,0
+1047,Town,Platinum Membership,Yes,Smartphone,175.09,10241.39,22.0,0.0,Poor Website,0
+10274,City,Basic Membership,Yes,Desktop,84.11,22978.75,29.0,605.9,Poor Website,1
+7512,Town,No Membership,No,Desktop,34.02,4438.0,0.0,0.0,No reason specified,1
+13667,Town,No Membership,Yes,Smartphone,70.48,22069.72,29.0,0.0,Too many ads,1
+6337,City,Silver Membership,No,Desktop,105.01,24852.75,8.0,715.56,Poor Website,0
+21971,Town,Basic Membership,Yes,Desktop,56.72,33478.17,24.0,0.0,No reason specified,1
+1742,Town,Gold Membership,No,Smartphone,311.01,8189.03,18.0,714.02,Poor Product Quality,0
+7730,City,Gold Membership,No,Desktop,0.0,37334.62,11.0,631.55,No reason specified,1
+11497,Town,No Membership,Yes,Smartphone,151.57,47048.03,7.0,602.69,Poor Website,1
+14428,City,Silver Membership,No,Smartphone,141.53,29343.11,23.0,709.77,Poor Website,1
+13428,Town,Premium Membership,No,Desktop,59.1,38199.71,7.0,749.27,Too many ads,0
+13631,City,Platinum Membership,No,Both,431.65,30702.58,11.0,1356.3142395931804,Quality Customer Care,0
+11242,City,Platinum Membership,Yes,Smartphone,396.12,22141.04,8.0,764.3,Too many ads,0
