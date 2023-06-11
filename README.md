@@ -9,7 +9,7 @@ Welcome to the repository for my Customer Churn Prediction project using an Arti
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+- [Deployment](#deployment)
 
 ## Introduction
 In this project, I developed an Artificial Neural Network (ANN) model to predict customer churn, which refers to the phenomenon where customers discontinue their business relationship with a company. By analyzing various customer-related features, such as demographics, transaction history, and engagement metrics, the model can identify patterns indicative of churn risk.
@@ -38,6 +38,9 @@ The ANN model achieved classification report, such as accuracy, precision and re
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Let's collaborate and make this project even better!
 
+
+## Deployment
+I have deployed my model in hugging face for final utilization. Lets try to check your condition!. Check out at this link : https://huggingface.co/spaces/galihsukmana/ML1_P1
 
 Thank you for visiting this repository! If you have any questions or feedback, please don't hesitate to reach out.
 
