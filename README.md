@@ -32,7 +32,7 @@ To use the trained ANN model for predicting customer churn, follow these steps:
 
 
 ## Results
-The ANN model achieved classification report, such as accuracy, precision and recall on the test dataset, demonstrating its effectiveness in predicting customer churn. By leveraging the predictive power of the model, businesses can proactively identify customers at risk of churn and implement targeted retention strategies to mitigate churn rates.
+The ANN model achieved classification report, such as accuracy, precision and recall on the test dataset, demonstrating its effectiveness in predicting customer churn. By leveraging the predictive power of the model, businesses can proactively identify customers at risk of churn and implement targeted retention strategies to mitigate churn rates. This has a 85% f1 score for prediction.
 
 
 ## Contributing
